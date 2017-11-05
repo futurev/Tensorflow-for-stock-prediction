@@ -1,0 +1,2 @@
+features: history price + indicators + exdogenous market price(sp500, dow)
+enrich architecture: CN's role
